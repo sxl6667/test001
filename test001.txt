@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 aaaab
 abba
+=======
+aaaac
+aaaa
+>>>>>>> sxl
 aaaabbbb
 bbbb
